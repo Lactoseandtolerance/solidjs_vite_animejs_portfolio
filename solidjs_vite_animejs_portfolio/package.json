@@ -1,0 +1,26 @@
+{
+  "name": "solidjs_vite_animejs_portfolio",
+  "private": true,
+  "version": "0.1.0",
+  "type": "module",
+  "scripts": {
+    "dev": "vite",
+    "build": "tsc && vite build",
+    "preview": "vite preview"
+  },
+  "dependencies": {
+    "animejs": "^3.2.1",
+    "solid-app-router": "^0.4.3",
+    "solid-js": "^1.7.8",
+    "solid-styled-components": "^0.28.5",
+    "solid-transition-group": "^0.2.3"
+  },
+  "devDependencies": {
+    "autoprefixer": "^10.4.14",
+    "postcss": "^8.4.27",
+    "sass": "^1.64.2",
+    "typescript": "^5.1.6",
+    "vite": "^4.4.9",
+    "vite-plugin-solid": "^2.7.0"
+  }
+}
